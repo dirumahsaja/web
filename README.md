@@ -1,7 +1,4 @@
-
-README
-
-## Secuil usaha melawan corona
+# Secuil usaha melawan corona
 
 - Jika kamu menemukan kesalahan / typo / misleading information pada website ini silahkan submit [bug report](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue)
 
@@ -9,7 +6,7 @@ README
 
 - Jika kamu seorang software developer yang ingin ikut berkontribusi dalam maintenance web ini silahkan submit PR
 
-FAQ
+## FAQ
 
 ### Kenapa memakai github?
 
